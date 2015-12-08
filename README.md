@@ -1,2 +1,2 @@
-# exide
+# EXIDE
 A New IDE
